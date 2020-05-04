@@ -5,6 +5,7 @@ Description: Pattern with packages for n7000 HW Adaptation
 Name: jolla-hw-adaptation-n7000
 Requires:
 - droid-hal-n7000
+- droid-hal-n7000-detritus
 - droid-hal-n7000-img-boot
 - droid-hal-n7000-kernel-modules
 - droid-config-n7000-sailfish
