@@ -18,7 +18,11 @@ Requires:
 
 # Hybris packages
 - libhybris-libEGL
+- libhybris-libGLESv1
 - libhybris-libGLESv2
+- libhybris-libsf
+- libhybris-libsync
+- libhybris-libui
 - libhybris-libwayland-egl
 
 # Sensors
